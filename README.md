@@ -1,1 +1,2 @@
 # Determining-DNA-Health
+This code solves the DNA Health problem by calculating the total health of DNA strands based on gene sequences and their health values. It processes multiple queries that specify gene ranges and DNA strands, counting occurrences of each gene within the DNA strand. The algorithm tracks minimum and maximum health values across all queries, using brute-force substring matching, which may be inefficient for large inputs.
